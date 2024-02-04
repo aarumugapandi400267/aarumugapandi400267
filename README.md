@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aarumugapandi and I'm always Hunger to get Knowledge...</h2>
+<h2 align="left">Hi 👋! It's me Aarumugapandi and I'm always Hunger to get Knowledge...</h2>
 
 ###
 
